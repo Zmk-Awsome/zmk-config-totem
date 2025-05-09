@@ -227,8 +227,8 @@
         compatible = "zmk,conditional-layers";
 
         triple_layer {
-            if-layers = <0 1>;
-            then-layer = <2>;
+            if-layers = <1 2>;
+            then-layer = <3>;
         };
     };
 };
